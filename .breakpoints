@@ -1,0 +1,74 @@
+{
+  "files": {
+    "main.py": [
+      {
+        "id": "dbcb8de2-ad5c-45e6-8660-800b0f083a8d",
+        "line": 1,
+        "version": 1958,
+        "index": 0
+      },
+      {
+        "id": "8dbb7d60-7578-4a4e-8b47-f85b67050aca",
+        "line": 1,
+        "version": 1958,
+        "index": 0
+      },
+      {
+        "id": "754e301d-15f4-45c0-919e-0b8bf570ef50",
+        "line": 1,
+        "version": 1958,
+        "index": 0
+      },
+      {
+        "id": "24b9cec6-6c84-41fc-89db-6af648f17b40",
+        "line": 1,
+        "version": 1958,
+        "index": 38
+      },
+      {
+        "id": "50bd6e86-e481-4385-b2d7-086fff0f1404",
+        "line": 1,
+        "version": 1958,
+        "index": 38
+      },
+      {
+        "id": "83862d13-3a29-4eef-88f2-032ee8db33f0",
+        "line": 1,
+        "version": 1958,
+        "index": 38
+      },
+      {
+        "id": "9caa925a-2af0-45df-b703-3bf598939b56",
+        "line": 1,
+        "version": 1958,
+        "index": 38
+      },
+      {
+        "id": "d6d0f089-7b40-4fa8-acb3-9a6bf296f145",
+        "line": 4,
+        "version": 1958,
+        "index": 93
+      },
+      {
+        "id": "05a3af6f-7a99-4932-9151-3665bec57661",
+        "line": 6,
+        "version": 1958,
+        "index": 171
+      },
+      {
+        "id": "1e885797-cfee-4f47-9eef-8f46947b5ec7",
+        "line": 8,
+        "version": 1958,
+        "index": 280
+      }
+    ],
+    "project.py": [
+      {
+        "id": "5574fd79-9558-46a4-923d-9725ff5fa4db",
+        "line": 1,
+        "version": 39,
+        "index": 0
+      }
+    ]
+  }
+}
